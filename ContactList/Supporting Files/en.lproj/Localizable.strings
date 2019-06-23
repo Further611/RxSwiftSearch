@@ -1,0 +1,17 @@
+/* 
+  File.strings
+  ContactList
+
+  Created by Tien Tran on 6/21/19.
+  Copyright © 2019 Tien Tran. All rights reserved.
+*/
+
+// ContactListViewController
+"ContactListViewController_Title"                                                 = "Contact List";
+"ContactListViewController_SearchPlaceHolder"                                     = "Search Contact";
+"ContactListViewController_SearchCancelButton"                                    = "Cancel";
+
+// ContactDetailViewController
+"ContactDetailViewController_SalaryTitle"                                         = "Salary:";
+"ContactDetailViewController_lbAgeTitle"                                          = "Age:";
+
